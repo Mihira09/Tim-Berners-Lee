@@ -88,3 +88,12 @@ margin: 25px auto;
 .links:hover {
     background-color: black;
 }
+html {
+    scroll-behavior: smooth;
+}
+a {
+ text-decoration:  none;  
+}
+.articles:hover {
+    color: blue;
+}
